@@ -41,7 +41,7 @@
 
 
 
-## ![https://www.linkedin.com/in/devtvas](assets/logo_profile.png) Hola, mi nombre es Tarcisio Valentim.
+## ![logo](https://github.com/devtvas/devtvas/blob/main/assets/logo_profile.png?raw=true) Hola, mi nombre es Tarcisio Valentim.
 ### 💻 Fullstack Developer | iOS & Android | ReactJs | NodeJs.
 
 
