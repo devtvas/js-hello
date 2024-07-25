@@ -11,16 +11,16 @@
 
 * [00 - Hola Mundo](./basic/00-helloworld.js)
 * [01 - Variables](./basic/01-variables.js)
-* [02 - Tipos de datos](./Basic/02-datatypes.js)
-* [03 - Ejercicios: Primeros pasos](./Basic/03-beginner-exercises.js)
-* [04 - Operadores](./Basic/04-operators.js)
-* [05 - Ejercicios: Operadores](./Basic/05-operators-exercises.js)
-* [06 - Strings](./Basic/06-strings.js)
-* [07 - Ejercicios: Strings](./Basic/07-strings-exercises.js)
-* [08 - Condicionales](./Basic/08-conditionals.js)
-* [09 - Ejercicios: Condicionales](./Basic/09-conditionals-exercises.js)
-* [10 - Array](./Basic/10-array.js)
-* [11 - Set](./Basic/11-set.js)
+* [02 - Tipos de datos]
+* [03 - Ejercicios: Primeros pasos]
+* [04 - Operadores]
+* [05 - Ejercicios: Operadores]
+* [06 - Strings]
+* [07 - Ejercicios: Strings]
+* [08 - Condicionales]
+* [09 - Ejercicios: Condicionales]
+* [10 - Array]
+* [11 - Set]
 
 ## Enlaces de interés
 
